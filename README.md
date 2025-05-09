@@ -1,3 +1,5 @@
+Here's the corrected README file with the proper folder structure and commands:
+
 # BERG AI: Centric Disease Classification Using Gene Expression
 
 ## 📌 Overview
@@ -57,35 +59,40 @@ BERG AI leverages machine learning to:
   - Medical data privacy concerns.  
   - Clinical validation requirements.  
 
-## 📂 Project Structure
+## 📂 Corrected Project Structure
 ```
 berg_ai/
-├── frontend/          # React + Vite application
 ├── backend/           # Flask REST API
-├── model/             # Random Forest Classifier and training scripts
-├── data/              # Sample datasets (if applicable)
-└── README.md          # Project documentation
+│   ├── model/        # Contains model and data
+│   │   ├── train_model.py
+│   │── [data files]
+│   └── app.py        # Main backend application
+└── frontend/         # Main frontend folder
+    └── frontend/     # React application (actual frontend code)
+        ├── public/
+        └── src/
 ```
 
 ## 📝 How to Run
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/LADYGRAY95/berg_ai.git
-   ```
-2. **Install dependencies**:
-   ```bash
-   cd berg_ai/backend && pip install -r requirements.txt
-   cd ../frontend && npm install
-   ```
-3. **Run the backend**:
-   ```bash
-   cd backend && python app.py
-   ```
-4. **Run the frontend**:
-   ```bash
-   cd frontend && npm run dev
-   ```
-5. Access the application at `http://localhost:3000`.
+
+### 1. Train the Model
+```bash
+cd backend/model
+python train_model.py
+```
+
+### 2. Start the Backend Server
+```bash
+cd backend
+python app.py
+```
+
+### 3. Set Up and Run the Frontend
+```bash
+cd frontend/frontend
+npm install
+npm run dev
+```
 
 ## 📞 Contact
 - **Youssr Chouaya**  
@@ -94,4 +101,4 @@ berg_ai/
   - LinkedIn: [Youssr Chouaya](https://linkedin.com/in/youssr-chouaya-63a54929a)  
 
 ---
-**Note**: This project is ready for pilot testing and further validation. Contributions and feedback are welcome! 🚀
+**Note**: The application will be available at `http://localhost:3000` after starting the frontend. Make sure both backend and frontend servers are running for full functionality. Contributions and feedback are welcome! 🚀
