@@ -1,0 +1,26 @@
+gene_id,gene_symbol,pathway,function,protein_level,sample_id
+ENSG00000136244,IL6,Inflammation,Interleukin-6,high,SAMPLE_089
+ENSG00000133703,KRAS,MAPK,GTPase involved in signal transduction,high,SAMPLE_000
+ENSG00000057663,ATG5,Autophagy,Autophagy protein 5,medium,SAMPLE_026
+ENSG00000177455,CD19,B_Cell,B-lymphocyte antigen CD19,high,SAMPLE_061
+ENSG00000134982,APC,WNT,Adenomatous polyposis coli protein,high,SAMPLE_015
+ENSG00000171855,IFNB1,Innate_Immunity,Interferon beta,high,SAMPLE_084
+ENSG00000111537,IFNG,Cytokine,Interferon gamma,high,SAMPLE_055
+ENSG00000142192,APP,Protein_Misfolding,Amyloid-beta precursor protein,high,SAMPLE_018
+ENSG00000169047,IRS1,Insulin,Insulin receptor substrate 1,medium,SAMPLE_067
+ENSG00000132155,RAF1,MAPK,Serine/threonine-protein kinase,medium,SAMPLE_001
+ENSG00000101787,DJ1,Mitochondrial,Protein/nucleic acid deglycase DJ-1,medium,SAMPLE_031
+ENSG00000104918,RETN,Adipokine,Resistin,medium,SAMPLE_079
+ENSG00000128052,KDR,Endothelial,Vascular endothelial growth factor receptor 2,medium,SAMPLE_048
+ENSG00000169429,CXCL8,Inflammation,Interleukin-8,medium,SAMPLE_092
+ENSG00000172936,MYD88,Innate_Immunity,Myeloid differentiation primary response protein MyD88,high,SAMPLE_082
+ENSG00000232810,TNF,Cytokine,Tumor necrosis factor,high,SAMPLE_056
+ENSG00000129965,INS,Insulin,Insulin,high,SAMPLE_065
+ENSG00000112715,VEGF,Endothelial,Vascular endothelial growth factor A,high,SAMPLE_047
+ENSG00000102882,MAPK3,MAPK,Mitogen-activated protein kinase 3,medium,SAMPLE_004
+ENSG00000078401,EDN1,Endothelial,Endothelin-1,medium,SAMPLE_046
+ENSG00000144891,AGTR1,RAAS,Type-1 angiotensin II receptor,medium,SAMPLE_035
+ENSG00000112116,IL17A,Cytokine,Interleukin-17A,high,SAMPLE_053
+ENSG00000005156,LAMP2,Autophagy,Lysosome-associated membrane glycoprotein 2,high,SAMPLE_028
+ENSG00000181092,ADIPOQ,Adipokine,Adiponectin,high,SAMPLE_078
+ENSG00000124762,CDKN1A,p53,Cyclin-dependent kinase inhibitor 1,high,SAMPLE_011

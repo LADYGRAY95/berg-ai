@@ -1,0 +1,73 @@
+gene_id,gene_symbol,pathway,disease_type,function,protein_level,sample_id
+ENSG00000163599,CTLA4,T_Cell,autoimmune,Cytotoxic T-lymphocyte protein 4,high,SAMPLE_059
+ENSG00000110944,IL23A,Cytokine,autoimmune,Interleukin-23 subunit alpha,medium,SAMPLE_054
+ENSG00000142168,SOD1,Mitochondrial,neurodegenerative,Superoxide dismutase [Cu-Zn],high,SAMPLE_032
+ENSG00000100030,MAPK1,MAPK,cancer,Mitogen-activated protein kinase 1,high,SAMPLE_003
+ENSG00000164821,DEFB1,Antimicrobial,infectious,Beta-defensin 1,medium,SAMPLE_094
+ENSG00000087088,BAX,p53,cancer,Apoptosis regulator BAX,medium,SAMPLE_012
+ENSG00000130203,APOE,Protein_Misfolding,neurodegenerative,Apolipoprotein E,high,SAMPLE_017
+ENSG00000142208,AKT1,PI3K-AKT,cancer,RAC-alpha serine/threonine-protein kinase,high,SAMPLE_006
+ENSG00000109320,NFKB1,Inflammation,cardiovascular,Nuclear factor NF-kappa-B p105 subunit,medium,SAMPLE_044
+ENSG00000131482,G6PC,Glucose,metabolic,Glucose-6-phosphatase catalytic subunit,high,SAMPLE_070
+ENSG00000179344,HLA-DQB1,MHC,autoimmune,HLA class II histocompatibility antigen,high,SAMPLE_050
+ENSG00000232810,TNF,Neuroinflammation,neurodegenerative,Tumor necrosis factor,high,SAMPLE_021
+ENSG00000171862,PTEN,PI3K-AKT,cancer,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase",high,SAMPLE_008
+ENSG00000186868,MAPT,Protein_Misfolding,neurodegenerative,Microtubule-associated protein tau,high,SAMPLE_020
+ENSG00000198793,MTOR,PI3K-AKT,cancer,Serine/threonine-protein kinase mTOR,medium,SAMPLE_007
+ENSG00000186803,IFNA1,Innate_Immunity,infectious,Interferon alpha-1,medium,SAMPLE_083
+ENSG00000105369,CD79A,B_Cell,autoimmune,B-cell antigen receptor complex-associated protein alpha chain,medium,SAMPLE_063
+ENSG00000169032,MAP2K1,MAPK,cancer,Dual specificity mitogen-activated protein kinase,high,SAMPLE_002
+ENSG00000159399,HK2,Glucose,metabolic,Hexokinase-2,high,SAMPLE_072
+ENSG00000090382,LYZ,Antimicrobial,infectious,Lysozyme C,high,SAMPLE_095
+ENSG00000005381,MPO,Antimicrobial,infectious,Myeloperoxidase,high,SAMPLE_096
+ENSG00000211896,IGHG1,Adaptive_Immunity,infectious,Immunoglobulin heavy constant gamma 1,high,SAMPLE_088
+ENSG00000125538,IL1B,Inflammation,infectious,Interleukin-1 beta,high,SAMPLE_091
+ENSG00000095970,TREM2,Neuroinflammation,neurodegenerative,Triggering receptor expressed on myeloid cells 2,medium,SAMPLE_023
+ENSG00000084674,APOB,Lipid_Metabolism,cardiovascular,Apolipoprotein B-100,high,SAMPLE_037
+ENSG00000113161,HMGCR,Lipid_Metabolism,cardiovascular,3-hydroxy-3-methylglutaryl-coenzyme A reductase,high,SAMPLE_040
+ENSG00000125084,WNT1,WNT,cancer,Proto-oncogene Wnt-1,high,SAMPLE_013
+ENSG00000009954,TFEB,Autophagy,neurodegenerative,Transcription factor EB,medium,SAMPLE_027
+ENSG00000232810,TNF,Inflammation,infectious,Tumor necrosis factor,high,SAMPLE_090
+ENSG00000164867,NOS3,Endothelial,cardiovascular,Nitric oxide synthase endothelial,high,SAMPLE_045
+ENSG00000171105,INSR,Insulin,metabolic,Insulin receptor,high,SAMPLE_066
+ENSG00000101017,CD28,T_Cell,autoimmune,T-cell-specific surface glycoprotein CD28,medium,SAMPLE_060
+ENSG00000130164,LDLR,Lipid_Metabolism,cardiovascular,Low-density lipoprotein receptor,high,SAMPLE_038
+ENSG00000121879,PIK3CA,PI3K-AKT,cancer,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit",high,SAMPLE_005
+ENSG00000174697,LEP,Adipokine,metabolic,Leptin,high,SAMPLE_077
+ENSG00000175445,LPL,Lipid,metabolic,Lipoprotein lipase,high,SAMPLE_075
+ENSG00000141510,TP53,p53,cancer,Cellular tumor antigen p53,high,SAMPLE_009
+ENSG00000105550,FGF21,Adipokine,metabolic,Fibroblast growth factor 21,high,SAMPLE_080
+ENSG00000180772,AGTR2,RAAS,cardiovascular,Type-2 angiotensin II receptor,low,SAMPLE_036
+ENSG00000153563,CD8A,T_Cell,autoimmune,T-cell surface glycoprotein CD8 alpha chain,high,SAMPLE_058
+ENSG00000132170,PPARG,Lipid,metabolic,Peroxisome proliferator-activated receptor gamma,high,SAMPLE_073
+ENSG00000080815,PSEN1,Protein_Misfolding,neurodegenerative,Presenilin-1,medium,SAMPLE_019
+ENSG00000114209,BECN1,Autophagy,neurodegenerative,Beclin-1,medium,SAMPLE_025
+ENSG00000159640,ACE,RAAS,cardiovascular,Angiotensin-converting enzyme,high,SAMPLE_033
+ENSG00000125538,IL1B,Neuroinflammation,neurodegenerative,Interleukin-1 beta,high,SAMPLE_022
+ENSG00000136869,TLR4,Innate_Immunity,infectious,Toll-like receptor 4,high,SAMPLE_081
+ENSG00000211895,IGHA1,Adaptive_Immunity,infectious,Immunoglobulin heavy constant alpha 1,medium,SAMPLE_087
+ENSG00000010610,CD4,T_Cell,autoimmune,T-cell surface glycoprotein CD4,high,SAMPLE_057
+ENSG00000136244,IL6,Inflammation,cardiovascular,Interleukin-6,high,SAMPLE_041
+ENSG00000124253,PCK1,Glucose,metabolic,Phosphoenolpyruvate carboxykinase,medium,SAMPLE_071
+ENSG00000169174,PCSK9,Lipid_Metabolism,cardiovascular,Proprotein convertase subtilisin/kexin type 9,medium,SAMPLE_039
+ENSG00000170323,FABP4,Lipid,metabolic,Fatty acid-binding protein 4,medium,SAMPLE_076
+ENSG00000168036,CTNNB1,WNT,cancer,Catenin beta-1,high,SAMPLE_016
+ENSG00000106633,GCK,Glucose,metabolic,Glucokinase,high,SAMPLE_069
+ENSG00000234745,HLA-B,MHC,autoimmune,HLA class I histocompatibility antigen,high,SAMPLE_051
+ENSG00000131095,GFAP,Neuroinflammation,neurodegenerative,Glial fibrillary acidic protein,high,SAMPLE_024
+ENSG00000156738,MS4A1,B_Cell,autoimmune,B-lymphocyte antigen CD20,high,SAMPLE_062
+ENSG00000164047,CAMP,Antimicrobial,infectious,Cathelicidin antimicrobial peptide,high,SAMPLE_093
+ENSG00000185345,PARK2,Mitochondrial,neurodegenerative,E3 ubiquitin-protein ligase parkin,high,SAMPLE_029
+ENSG00000163993,PINK1,Mitochondrial,neurodegenerative,Serine/threonine-protein kinase PINK1,high,SAMPLE_030
+ENSG00000211895,IGHM,B_Cell,autoimmune,Immunoglobulin heavy constant mu,high,SAMPLE_064
+ENSG00000206503,HLA-A,MHC,autoimmune,HLA class I histocompatibility antigen,high,SAMPLE_052
+ENSG00000232810,TNF,Inflammation,cardiovascular,Tumor necrosis factor,high,SAMPLE_042
+ENSG00000204287,HLA-DRB1,MHC,autoimmune,HLA class II histocompatibility antigen,high,SAMPLE_049
+ENSG00000167286,CD3D,Adaptive_Immunity,infectious,T-cell surface glycoprotein CD3 delta chain,high,SAMPLE_085
+ENSG00000135679,MDM2,p53,cancer,E3 ubiquitin-protein ligase Mdm2,medium,SAMPLE_010
+ENSG00000132693,CRP,Inflammation,cardiovascular,C-reactive protein,high,SAMPLE_043
+ENSG00000177455,CD19,Adaptive_Immunity,infectious,B-lymphocyte antigen CD19,high,SAMPLE_086
+ENSG00000105329,IRS2,Insulin,metabolic,Insulin receptor substrate 2,medium,SAMPLE_068
+ENSG00000135744,AGT,RAAS,cardiovascular,Angiotensinogen,high,SAMPLE_034
+ENSG00000042980,FZD1,WNT,cancer,Frizzled-1,medium,SAMPLE_014
+ENSG00000072310,SREBF1,Lipid,metabolic,Sterol regulatory element-binding protein 1,medium,SAMPLE_074
