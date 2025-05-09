@@ -1,5 +1,3 @@
-Here's the corrected README file with the proper folder structure and commands:
-
 # BERG AI: Centric Disease Classification Using Gene Expression
 
 ## 📌 Overview
